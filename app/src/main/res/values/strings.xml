@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">WS Shop</string>
+    <string name="content_text">Laptop Asus ROG telah lama banyak menjadi perbincangan karena menawarkan kualitas dan kinerja yang mampu menandingi laptop gaming premium lainnya. Salah satu varian yang ditawarkan oleh Asus adalah laptop ROG GL553VD-FY380T dimana produk ini dibekali dengan teknologi yang lebih baru termasuk prosesor yang lebih kencang. Harga laptop ROG GL553VD-FY380T sendiri jelas lebih mahal dibandingkan laptop standar, namun harga laptop ROG GL553VD-FY380T tersebut terasa sepadan dengan kualitas yang dibawanya. Harga laptop ROG GL553VD-FY380T juga masih lebih ekonomis jika dibandingkan ketika anda membangung desktop gaming yang tentu lebih hemat daya. Solusi laptop ROG GL553VD-FY380T murah bisa anda pilih untuk menjalankan berbagai permainan favorit anda.</string>
+    <string name="content_specs_display">Display 15.6″ HD, DOS, BLACK, DOS</string>
+    <string name="content_specs_storage">4GB RAM, 1TB HDD,
+    VGA NVIDIA® GTX 950M 4GB</string>
+    <string name="content_specs_battery">2,770 mAh battery\n
+    Standby time (LTE): up to 19 days\n
+    Talk time (3g/WCDMA): up to 26 hours\n
+    Internet use time (Wi-Fi): up to 13 hours\n
+    Internet use time (LTE): up to 13 hours\n
+    Video playback: up to 13 hours\n
+    Audio playback (via headset): up to 110 hours\n
+    Fast charging: up to 7 hours of use from only 15 minutes of charging</string>
+    <string name="content_specs_prosesor">Intel® Core™ i7–4720HQ</string>
+    <string name="stock">Stock hanya 200 buah</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="prosesor">Prosesor</string>
+    <string name="storage">Storage</string>
+    <string name="battery">Battery</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Gunawan</string>
+    <string name="buy">Add To Cart</string>
+    <string name="dummy_value">Rp. 15.000.000</string>
+    <string name="todo">TODO</string>
+</resources>
